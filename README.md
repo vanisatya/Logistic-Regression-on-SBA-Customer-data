@@ -1,6 +1,5 @@
-• Developed Predictive Model: Created a logistic regression model to predict payment behavior (full payment or charge-off) for new SBA customers.
+Built and fine-tuned a logistic regression model using Python’s Scikit-Learn library, Light GBM and H2O models to predict payment behavior (full payment or charge-off) for new SBA customers. 
 
-•	High Model Accuracy: Achieved an accuracy rate of 89.8%, enhancing reliability of predictions.
+Preprocessed data through feature engineering, handling missing values, and applying data scaling to optimize model performance and achieved an accuracy of 89.8%, enhancing reliability of predictions. supporting data-driven decisions in risk assessment.
 
-•	Impact on Decision-Making: Improved loan approval processes and mitigated default risks, supporting data-driven decisions in risk assessment.
 
